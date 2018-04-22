@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Apr 22 21:51:17 2018
+
+@author: ALOK
+"""
+
+AcadgildPythonAssignment1list = [54, 24, 100, 2, 5]
+
+sorted(AcadgildPythonAssignment1list, key = int)
+Out[2]: [2, 5, 24, 54, 100]
+
